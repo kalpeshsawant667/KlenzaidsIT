@@ -432,6 +432,7 @@ fastlane/test_output/
 # GENERATED NATIVE CODE / TEMP FILES
 # ============================================================
 
+node_modules/
 **/node_modules/
 **/.gradle/
 **/build/
